@@ -14,7 +14,7 @@ body {
 }
 
 .dark {
-	color: rgba(17, 17, 17, .7);
+	color: rgba(17, 17, 17, .85);
 }
 
 .container {
@@ -49,4 +49,8 @@ body {
 .btn:hover {
   background: #c70000;
   text-decoration: none;
+}
+
+#door {
+	width: 20%;
 }
